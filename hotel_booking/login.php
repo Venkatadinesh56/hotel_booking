@@ -53,8 +53,8 @@
 <div class="login-container">
     <form method="POST" action="login_detaill.php">
         <h2>Login with PGLife</h2>
-        <input type="email" name="email" placeholder="Email" required>
-        <input type="password" name="password" placeholder="Password" required>
+        <input type="email" name="email" placeholder="Email" >
+        <input type="password" name="password" placeholder="Password" >
         <button type="submit">Login</button>
     </form><br><br>
     <center><a href="signup.php">Signup</a></center>
