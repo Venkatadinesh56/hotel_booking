@@ -56,7 +56,7 @@
   <div class="container">
     <h2>Signup with PGLife</h2>
     <form method="post" action="signup_details.php">
-      <input type="text" name="name" placeholder="Full Name"><br><br>
+      <input type="text" name="name" placeholder="Full Name" required><br><br>
       <input type="phone" name="number" placeholder="Phone Number"><br><br>
       <input type="email" name="email" placeholder="Email"><br><br>
       <input type="password" name="password" placeholder="Password"><br><br>
