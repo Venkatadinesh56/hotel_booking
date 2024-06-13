@@ -6,12 +6,9 @@
    float:left;
    display:inline-block;
 }
-
 .checked{
    color:violet;
 }
-
-
 .col1{
    position: relative;
    top:30px;
