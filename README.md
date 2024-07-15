@@ -1,1 +1,2 @@
-##                                                         HOTEL ROOMS BOOKING
+##  HOTEL ROOMS BOOKING
+# HOME PAGE
