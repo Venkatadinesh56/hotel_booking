@@ -1,2 +1,2 @@
-## Hotel Booking
+# Hotel Booking
 
