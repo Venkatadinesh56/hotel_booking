@@ -1,5 +1,5 @@
 # Hotel Booking
-#Tools
--HTML
--CSS
--PHP
+## Tools
+- HTML
+- CSS
+- PHP
