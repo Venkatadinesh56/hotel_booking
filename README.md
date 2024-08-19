@@ -3,5 +3,5 @@
 - HTML
 - CSS
 - PHP
-## Itroduction
+## Introduction
     The project is about booking the rooms through this website
