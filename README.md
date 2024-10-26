@@ -10,9 +10,9 @@ The Hotel Room Booking system includes dedicated login and signup pages, enhanci
 
 <h2>Tools</h2>
 <ul>
-    <l>HTML</l>
-    <l>CSS</l>
-    <l>PHP</l>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>PHP</li>
 </ul>
 
     
